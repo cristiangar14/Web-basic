@@ -1,0 +1,14 @@
+medida de imagenes= 
+fondo = 1920 ancho * 800 alto
+foto sobre mi = 410 * 410
+iconos= 85*85
+mis trabajos = 600 * 380
+blog = 300*200
+
+
+libreria para un carrusel= https://owlcarousel2.github.io/OwlCarousel2/demos/basic.html
+
+para iconos = font awesome sin embargo es mejor busca el cdn https://cdnjs.com/libraries/font-awesome
+se pega como script al inicio del html, despues solo se selecciona el icono y se pega el codigo
+
+para las sombras se puede buscar en internet box shadow generator y hay paginas que ayudan a buscar los valores para pasarle a la funcion
